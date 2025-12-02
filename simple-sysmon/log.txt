@@ -1,0 +1,170 @@
+CPU: 0.00 %
+Memory: 7.49 % (583 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.08 %
+Memory: 7.49 % (584 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.47 % (582 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 42 B/s, TX 42 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.48 % (583 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.48 % (583 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.49 % (583 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.17 %
+Memory: 7.49 % (584 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.49 % (584 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.49 % (584 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
+CPU: 0.00 %
+Memory: 7.50 % (584 MB used / 7797 MB total)
+Disk: 5.25 % (54106 MB used / 1031018 MB total)
+Network: RX 0 B/s, TX 0 B/s
+Top Processes by RSS:
+PID    RSS(KB)    COMMAND
+228    21248      /usr/bin/python3 /usr/share/unattended-upgrades/unattended-u
+759    19840      /usr/libexec/packagekitd 
+194    18432      /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-
+4314   14328      /lib/systemd/systemd-resolved 
+4317   12416      /lib/systemd/systemd-journald 
+1      12160      /lib/systemd/systemd --system --deserialize 35 
+336    9344       /lib/systemd/systemd --user 
+198    7296       /lib/systemd/systemd-logind 
+4533   7296       /lib/systemd/systemd-timesyncd 
+763    7040       /usr/libexec/polkitd --no-debug 
+------
