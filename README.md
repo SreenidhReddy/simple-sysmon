@@ -23,20 +23,24 @@ It reads CPU, memory, and disk statistics from the Linux `/proc` filesystem and 
 ## 📂 Project Structure
 
 simple-sysmon/
-├── src/
-│ ├── main.c
-│ ├── cpu.c
-│ ├── cpu.h
-│ ├── memory.c
-│ ├── memory.h
-│ ├── disk.c
-│ ├── disk.h
-│ └── utils.h
-├── Makefile
-├── .gitignore
-├── LICENSE
-├── README.md
-└── .github/workflows/ci.yml
+  │── src/
+  │   ├── main.c
+  │   ├── cpu.c
+  │   ├── cpu.h
+  │   ├── memory.c
+  │   ├── memory.h
+  │   ├── disk.c
+  │   ├── disk.h
+  │   ├── utils.h
+  │
+  │── Makefile
+  │── README.md
+  │── LICENSE
+  │── .gitignore
+  │── log.txt
+  │── snapshot.txt
+  │── .github/workflows/ci.yml
+
 
 ---
 
