@@ -1,4 +1,18 @@
-sysmon
+# Build files
 *.o
+
+# Binaries
+sysmon
+*.out
+*.exe
+
+# VS Code
 .vscode/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+snapshot.txt
+log.txt

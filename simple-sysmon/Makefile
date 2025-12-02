@@ -1,11 +1,18 @@
 CC = gcc
-CFLAGS = -Wall -O2
-LDFLAGS = -lncurses
-SRC = src/system_monitor.c
-BIN = sysmon
+CFLAGS = -Wall -Wextra -O2
 
-all:
-	$(CC) $(CFLAGS) $(SRC) -o $(BIN) $(LDFLAGS)
+SRC = src/main.c src/cpu.c src/memory.c src/disk.c
+OBJ = $(SRC:.c=.o)
+
+TARGET = sysmon
+
+all: $(TARGET)
+
+$(TARGET): $(OBJ)
+	$(CC) $(OBJ) -o $(TARGET)
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -f $(BIN)
+	rm -f $(OBJ) $(TARGET)
